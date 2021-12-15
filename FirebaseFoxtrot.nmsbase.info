@@ -1,0 +1,20 @@
+Description:
+	Round base core with teleporter and decorative elements, non-functional turrets on the roof, surrounded by horizontal hexagonal
+	tunnels leading to six landing areas with railings.
+	
+Part Count:
+	1251
+
+Positioning:
+	Ground
+
+Terrain Assumptions:
+	Flat
+	
+Powerlines:
+	No source
+
+Helpful Information:
+	Base computer is located directly under the center of the main round structure.	Power requirements are 298 kps, due to the use
+	of gas extractors as decorative elements; to avoid the need for 12 solar panels, 6 batteries and interconnecting wires, EM power
+	is highly recommended, but not necessary.  
