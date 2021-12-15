@@ -1,4 +1,4 @@
-![Firebase Foxtrot](https://raw.githubusercontent.com/weasel-nms/NMSbase-PinnacleRefinery/main/PinnacleRefinery.nmsbase.jpg)
+![Firebase Foxtrot](https://raw.githubusercontent.com/weasel-nms/NMSbase-FirebaseFoxtrot/main/FirebaseFoxtrot.jpg)
 ## Instructions for importing this base are [here](https://github.com/weasel-nms/NMSbase--Instructions)
 
 ### Description:
